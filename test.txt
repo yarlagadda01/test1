@@ -1,0 +1,3 @@
+Git is smart enough to figure out what commit you meant to type if you provide the first few characters, as long as your partial SHA-1 is at least four characters long and unambiguous – that is, only one object in the current repository begins with that partial SHA-1.
+
+For example, to see a specific commit, suppose you run a git log command and identify the commit where you added certain functionality:
